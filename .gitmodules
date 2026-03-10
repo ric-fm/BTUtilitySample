@@ -1,0 +1,3 @@
+[submodule "Plugins/BTUtility"]
+	path = Plugins/BTUtility
+	url = https://github.com/ric-fm/BTUtility.git
