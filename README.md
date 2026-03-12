@@ -1,6 +1,6 @@
 # BTUtility Sample Project
 
-This repository is a functional demonstration of the **[BTUtility Plugin](https://github.com/ric-fm/BTUtility)** for Unreal Engine 5. It showcases an NPC agent capable of managing complex decision-making through a Utility-based AI system.
+This repository is a functional basic demonstration of the **[BTUtility Plugin](https://github.com/ric-fm/BTUtility)** for Unreal Engine 5. It showcases an NPC agent capable of managing complex decision-making through a Utility-based AI system.
 
 The project demonstrates how different behaviors are selected by balancing internal needs and environmental factors using a Utility Selector within a standard Behavior Tree.
 
@@ -72,6 +72,6 @@ git lfs pull
 ```
 
 ## References:
-
-- UtilityAI plugin [BTUtility](https://github.com/ric-fm/BTUtility)
-- Assets from [Unreal Cropout Sample](https://www.unrealengine.com/en-US/blog/cropout-casual-rts-game-sample-project)
+- **Demo Video:** [Utility AI Showcase - YouTube](https://www.youtube.com/watch?v=ZWR0MAHfQ_0)
+- **UtilityAI plugin:** [BTUtility](https://github.com/ric-fm/BTUtility)
+- **Assets:** [Unreal Cropout Sample](https://www.unrealengine.com/en-US/blog/cropout-casual-rts-game-sample-project)
